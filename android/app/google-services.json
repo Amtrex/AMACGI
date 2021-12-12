@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918564240573",
+    "project_id": "amacgi-devs",
+    "storage_bucket": "amacgi-devs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918564240573:android:15d6768e6d13c9d9b44bd4",
+        "android_client_info": {
+          "package_name": "com.example.amacgi_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918564240573-uiqve5pf4mr9iifgmscr9u7o3nuvsjng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATtU6Rqnf0HMCG0F_pENpz9hqdEDIONPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918564240573-uiqve5pf4mr9iifgmscr9u7o3nuvsjng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
